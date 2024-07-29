@@ -14,9 +14,7 @@ Hey there<br>I am Sivabalan R<br>Electronics Engineer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-balan-1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siva-balan-1&limit=5&theme=default&combine_all_yearly_contributions=true)
 
@@ -25,3 +23,6 @@ Hey there<br>I am Sivabalan R<br>Electronics Engineer
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-balan-1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
