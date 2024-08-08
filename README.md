@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there<br>I am Sivabalan R<br>Electronics Engineer
 
-# ![image](https://github.com/user-attachments/assets/d7c38d21-0a5b-4953-924e-3dc0b9ff5ab0) Carrier Objective
+# ![icons8-carrier-48](https://github.com/user-attachments/assets/cebd838e-7153-4d7f-9d45-bedd1c7e1b4b)Carrier Objective
 As an Electronics and Communication Engineering student with expertise in electronics and programming, I aim to drive innovation and solve complex engineering problems. I am adept at rapidly acquiring new professional skills and aspire to collaborate with diverse teams to address real-world challenges and contribute significantly to the field.
 
 
