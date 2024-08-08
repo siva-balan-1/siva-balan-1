@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there<br>I am Sivabalan R<br>Electronics Engineer
+Hey there<br>I am Sivabalan R<br>Electronics Engineer<br>As an Electronics and Communication Engineering student with expertise in electronics and programming, I aim to drive innovation and solve complex engineering problems. I am adept at rapidly acquiring new professional skills and aspire to collaborate with diverse teams to address real-world challenges and contribute significantly to the field.
 
 
 ## 🌐 Socials:
