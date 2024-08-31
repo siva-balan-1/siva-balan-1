@@ -22,7 +22,7 @@ As an Electronics and Communication Engineering student with expertise in electr
 ![](https://github-contributor-stats.vercel.app/api?username=siva-balan-1&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siva-balan-1&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=siva-balan-1&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
