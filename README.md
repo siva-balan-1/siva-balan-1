@@ -19,21 +19,7 @@ As an Electronics and Communication Engineering student with expertise in electr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-{
-  user(login: "siva-balan-1") {
-    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
-      totalCount
-      nodes {
-        nameWithOwner
-        url
-      }
-      pageInfo {
-        endCursor
-        hasNextPage
-      }
-    }
-  }
-}
+![](https://github-contributor-stats.vercel.app/api?username=siva-balan-1&limit=5&theme=default&combine_all_yearly_contributions=true) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siva-balan-1&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
