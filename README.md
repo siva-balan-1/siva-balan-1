@@ -21,6 +21,9 @@ As an Electronics and Communication Engineering student with expertise in electr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siva-balan-1&limit=5&theme=default&combine_all_yearly_contributions=true) 
 
+### Programming Language Used
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-balan-1&show_icons=true&locale=en&layout=compact" alt="siva-balan-1" /></p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=siva-balan-1&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 
