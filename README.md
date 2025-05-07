@@ -4,6 +4,13 @@ Hello<br>I am Sivabalan R<br>Electronics Engineer
 # ![icons8-carrier-48](https://github.com/user-attachments/assets/cebd838e-7153-4d7f-9d45-bedd1c7e1b4b)  Summary
 As an Electronics and Communication Engineering student with expertise in electronics and programming, I aim to drive innovation and solve complex engineering problems. I am adept at rapidly acquiring new professional skills and aspire to collaborate with diverse teams to address real-world challenges and contribute significantly to the field.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-balan-1&label=Profile%20views&color=0e75b6&style=flat" alt="siva-balan-1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva-balan-1" alt="siva-balan-1" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1047341322270412800/1047341322270412803) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100065334287823) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ps_devils_king_0_0_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sivabalan-r-466420249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SivaBal77490741) 
