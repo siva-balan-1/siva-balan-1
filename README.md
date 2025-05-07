@@ -10,6 +10,9 @@ As an Electronics and Communication Engineering student with expertise in electr
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![GitHub Commit Count](https://github-readme-stats.vercel.app/api?username=siva-balan-1&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+
+
 
 
 ## 🌐 Socials:
