@@ -29,7 +29,7 @@ As an Electronics and Communication Engineering student with expertise in electr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siva-balan-1&limit=5&theme=default&combine_all_yearly_contributions=true) 
+![](https://github-contributor-stats.vercel.app/api?username=siva-balan-1&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ### Programming Language Used
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-balan-1&show_icons=true&locale=en&layout=compact" alt="siva-balan-1" /></p>
