@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello<br>I am Sivabalan R<br>Electronics Engineer
-
+Hello, I’m Sivabalan R, an Electronics and Communication Engineer passionate about embedded systems, VLSI, and software development.
 # ![icons8-carrier-48](https://github.com/user-attachments/assets/cebd838e-7153-4d7f-9d45-bedd1c7e1b4b)  Summary
 As an Electronics and Communication Engineering student with expertise in electronics and programming, I aim to drive innovation and solve complex engineering problems. I am adept at rapidly acquiring new professional skills and aspire to collaborate with diverse teams to address real-world challenges and contribute significantly to the field.
 
